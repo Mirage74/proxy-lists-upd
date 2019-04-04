@@ -1,7 +1,7 @@
 'use strict';
 
 var _ = require('underscore');
-var DataSourcer = require('data-sourcer');
+var DataSourcer = require('data-sourcer-upd');
 var GeoIpNativeLite = require('geoip-native-lite');
 var net = require('net');
 var path = require('path');
